@@ -1,0 +1,22 @@
+resolved properties
+   status      ['https://nuclex.com/id/status']
+   definition  ['http://www.w3.org/2004/02/skos/core#definition']
+   synonym     ['http://www.w3.org/2004/02/skos/core#altLabel']
+
+exempt branch: 'radiopharmaceutical compound' -> 878 classes (865 of them approved)
+
+classes: 2007   approved: 1583
+
+status values present:
+   'approved'             1583
+   'needs approval'       340
+   'draft'                84
+
+approved concepts checked for definition/synonym: 718 (865 exempted)
+
+results
+       0  -> releases/1.0.0/qc_missing_definition.tsv
+      48  -> releases/1.0.0/qc_missing_synonym.tsv
+       0  -> releases/1.0.0/qc_unapproved_parent.tsv
+
+   0 approved concepts have neither a definition nor a synonym

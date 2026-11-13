@@ -12,11 +12,11 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="https://nuclex.com/nuclex.owl">
         <owl:versionIRI rdf:resource="https://nuclex.com/releases/1.0.0/nuclex.owl"/>
-        <dcterms:created>2026-11-12</dcterms:created>
+        <dcterms:created>2026-11-13</dcterms:created>
         <dcterms:creator>Tyler Bradshaw</dcterms:creator>
         <dcterms:description>NucLex is an ontology of nuclear medicine, theranostics, and molecular imaging. It covers imaging and therapy procedures, radiopharmaceuticals and radionuclides,  instrumentation, acquisition and reconstruction,  measurements, dosimetry, and the physical processes underlying them. Top-level classes align with SNOMED CT hierarchies, and terms carry mappings to SNOMED CT, the NCI Thesaurus, RadLex, LOINC, UMLS, and DICOM.</dcterms:description>
         <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-        <dcterms:modified>2026-11-12</dcterms:modified>
+        <dcterms:modified>2026-11-13</dcterms:modified>
         <dcterms:publisher>Institute of Nuclear Medicine</dcterms:publisher>
         <dcterms:title>NucLex: the Nuclear Medicine Ontology</dcterms:title>
         <owl:versionInfo>1.0.0</owl:versionInfo>

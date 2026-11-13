@@ -1,0 +1,49 @@
+iri	label	existing_definition	existing_synonyms	proposed_definition	proposed_new_synonyms
+https://nuclex.com/id/NUCLEX_0000545	Curie score	A semi-quantitative measure of metaiodobenzylguanidine uptake obtained by grading abnormal skeletal uptake across ten anatomical segments.			
+https://nuclex.com/id/NUCLEX_0000743	Derenzo phantom	A fillable nuclear medicine phantom containing multiple sets of parallel rods or holes of varying diameters arranged in pie-shaped sectors, used to evaluate the in-plane spatial resolution of tomographic systems.			
+https://nuclex.com/id/NUCLEX_0000591	area-based measurement	Any 2-dimensional spatial measurement of a region's area.			
+https://nuclex.com/id/NUCLEX_0000870	cardiac gated acquisition	An acquisition in which data are sorted into bins according to the phase of the heartbeat.			
+https://nuclex.com/id/NUCLEX_0000525	characteristic x-ray	Monoenergetic x-rays emitted when an outer-shell electron fills a vacancy in an inner electron shell.			
+https://nuclex.com/id/NUCLEX_0000938	circular orbit	A detector trajectory that maintains a constant radius about the axis of rotation.			
+https://nuclex.com/id/NUCLEX_0001974	clinical finding	A representation that is either the output of a clinical history taking or a physical examination or an image finding, or some combination thereof.			
+https://nuclex.com/id/NUCLEX_0000647	compactness	A measure of the ratio between the volume of a region of interest and a power of its bounding surface.			
+https://nuclex.com/id/NUCLEX_0000644	concavity	A measure of the extent to which the boundary of a region of interest is indented relative to its convex hull.			
+https://nuclex.com/id/NUCLEX_0000638	contrast	A measure of the local variation in gray-level values, emphasizing differences between neighboring pixels or voxels.			
+https://nuclex.com/id/NUCLEX_0000639	correlation	A measure of the linear dependence of gray levels of neighboring pixels or voxels.			
+https://nuclex.com/id/NUCLEX_0000935	detector configuration angle	The angle between two nuclear medicine detectors during acquisition.			
+https://nuclex.com/id/NUCLEX_0000836	detector material	A processed substance whose measurable response to incident radiation allows that radiation to be registered.			
+https://nuclex.com/id/NUCLEX_0000799	device component	A physical part manufactured to function within a larger piece of equipment.			
+https://nuclex.com/id/NUCLEX_0000648	eccentricity	A measure of the deviation of a region of interest from a circular or spherical shape.			
+https://nuclex.com/id/NUCLEX_0000941	elliptical orbit	A detector trajectory whose radius varies smoothly between two extremes along perpendicular axes.			
+https://nuclex.com/id/NUCLEX_0000650	elongation	A measure of the ratio between the second-largest and the largest principal axis length of a region of interest.			
+https://nuclex.com/id/NUCLEX_0000782	energy-compensated Geiger-Muller probe	A Geiger-Müller detector enclosed within a specific metallic filter designed to attenuate low-energy photons, correcting the inherent detector over-response to yield a uniform dose rate measurement across varying photon energies.			
+https://nuclex.com/id/NUCLEX_0001972	evaluation finding	A clinical observation produced by an intervention undertaken to assess a patient's state.			
+https://nuclex.com/id/NUCLEX_0000649	flatness	A measure of the ratio between the smallest and the largest principal axis length of a region of interest.			
+https://nuclex.com/id/NUCLEX_0000846	inorganic crystal scintillator	A crystalline substance of inorganic composition that emits light when ionizing radiation deposits energy within it.			
+https://nuclex.com/id/NUCLEX_0000628	intensity histogram feature	Any statistical metric derived directly from the intensity histogram of an image region, quantifying the distribution of voxel values without considering spatial relationships.			
+https://nuclex.com/id/NUCLEX_0000520	ionizing radiation	Radiation with enough energy to remove a bound electron from an atom and create an ion.			
+https://nuclex.com/id/NUCLEX_0000837	ionizing radiation detector material	A processed substance whose measurable response to ionizing radiation allows that radiation to be registered.			
+https://nuclex.com/id/NUCLEX_0000889	legs acquisition	The component of a two-part study that covers the lower extremities.			
+https://nuclex.com/id/NUCLEX_0000744	micro Derenzo phantom	A miniaturized version of the Derenzo phantom designed for evaluating the high spatial resolution of pre-clinical or small-animal PET and SPECT systems.			
+https://nuclex.com/id/NUCLEX_0000546	modified Curie score	A revision of the Curie score using altered segment definitions and grading criteria.			
+https://nuclex.com/id/NUCLEX_0000789	neutron survey meter	A polyethylene sphere with an internal borated layer attached to a ratemeter.			
+https://nuclex.com/id/NUCLEX_0000946	nuclear medicine detector spatial positioning	The placement and orientation of the detector relative to the patient and the axis of rotation.			
+https://nuclex.com/id/NUCLEX_0000031	nuclear medicine imaging procedure property	A property describing how an imaging study using an administered radiopharmaceutical is carried out.			
+https://nuclex.com/id/NUCLEX_0001969	observable entity	A quality, property, or characteristic that can be observed or measured.			
+https://nuclex.com/id/NUCLEX_0000911	open window	An energy window configuration accepting all events, regardless of energy.			
+https://nuclex.com/id/NUCLEX_0000585	organ volume	The total volume of an organ, as measured in an image.			
+https://nuclex.com/id/NUCLEX_0000845	organic crystal scintillator	A crystalline substance of organic composition that emits light when ionizing radiation deposits energy within it.			
+https://nuclex.com/id/NUCLEX_0000523	photon	The elementary quantum particle of electromagnetic radiation, having zero rest mass and traveling at the speed of light.			
+https://nuclex.com/id/NUCLEX_0000931	plantar mode	A detector configuration arranged to image the soles of the feet.			
+https://nuclex.com/id/NUCLEX_0001973	procedure related finding	A clinical observation arising in the course of, or as a consequence of, a medical procedure.			
+https://nuclex.com/id/NUCLEX_0000009	processed material	A substance that has been manufactured or refined for a particular purpose.			
+https://nuclex.com/id/NUCLEX_0000784	proportional counter	A gas-filled detector instrument operating at an intermediate voltage where primary ionization events trigger localized Townsend avalanches, generating an output signal proportional to the initial energy deposition.			
+https://nuclex.com/id/NUCLEX_0000104	proton emission	A particle emission decay in which a single proton is ejected.			
+https://nuclex.com/id/NUCLEX_0001978	qualifier value	A categorical modifier used to refine, constrain, or augment the conceptual meaning of a primary term.			
+https://nuclex.com/id/NUCLEX_0000601	relative activity measurement	Any radioactivity-based measurement in an image that has been normalized by a reference, such as administered activity.			
+https://nuclex.com/id/NUCLEX_0000873	respiratory gated acquisition	An acquisition in which data are sorted into bins according to the phase of breathing.			
+https://nuclex.com/id/NUCLEX_0000926	rotation direction	Whether the detector rotates clockwise or counterclockwise.			
+https://nuclex.com/id/NUCLEX_0000645	sphericity	A measure comparing the bounding surface of a sphere of equal volume with the bounding surface of a region of interest.			
+https://nuclex.com/id/NUCLEX_0000243	splenic infarct scan	A nuclear medicine spleen scan performed to identify a peripherally based focal defect of radiotracer uptake within the splenic parenchyma.			
+https://nuclex.com/id/NUCLEX_0000613	tissue ratio measurement	Any measurement of radioactivity in a region of interest that is normalized by the radioactivity measurement in another region.			
+https://nuclex.com/id/NUCLEX_0000524	x-ray	High-energy electromagnetic radiation originating from electron interactions or transitions outside the atomic nucleus, often in the energy range of 0.1-300 keV.			
