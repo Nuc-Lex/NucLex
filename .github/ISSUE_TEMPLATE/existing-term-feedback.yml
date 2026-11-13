@@ -1,0 +1,30 @@
+name: Comment on an existing term
+description: Suggest a fix or raise a question about a term already in NucLex
+title: "[Term feedback]: "
+labels: ["term feedback"]
+body:
+  - type: input
+    id: term
+    attributes:
+      label: Term
+      description: The label or identifier, for example NUCLEX:0000186
+      placeholder: isomeric transition
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What should change, and why?
+      description: >
+        For example a wrong or unclear definition, a term in the wrong place in
+        the hierarchy, a missing synonym, or a mapping that looks incorrect.
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Your name and affiliation
+    validations:
+      required: true

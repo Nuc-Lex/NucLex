@@ -1,0 +1,4 @@
+# NCIt codes whose NucLex label was changed on purpose (e.g. EANM nomenclature,
+# EDITORIAL_POLICY.md 10.1). sync_ncit.py will not relabel these to the NCIt name.
+# One code per line; text after # is a comment, e.g.
+#   C12345   # Gallium Ga 68 Dotatate -> [68Ga]Ga-DOTA-TATE (EANM)

@@ -1,0 +1,2 @@
+# NUCLEON nuclides (by symbol, e.g. Lu-177m) that sync_nucleon.py must never add.
+# One per line; text after # is a comment.

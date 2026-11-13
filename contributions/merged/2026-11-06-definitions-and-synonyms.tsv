@@ -1,0 +1,143 @@
+iri	label	proposed_definition	proposed_new_synonyms	existing_synonyms
+https://nuclex.com/id/NUCLEX_0000921	angular step size	The angular increment between successive projection views in a rotational acquisition.	angular sampling interval	angular step
+https://nuclex.com/id/NUCLEX_0000772	auto gamma counter	A radioactivity counting instrument that processes multiple samples in sequence without operator intervention.	automatic gamma counter	gamma counter
+https://nuclex.com/id/NUCLEX_0000847	bismuth germanate oxide	An inorganic scintillator with the composition Bi4Ge3O12.	bismuth germanate	BGO
+https://nuclex.com/id/NUCLEX_0000940	body contouring orbit	A detector trajectory that follows the outline of the patient to minimise the distance between detector and skin surface.	auto contour	body contour mode
+https://nuclex.com/id/NUCLEX_0000564	bone scan index	The proportion of total skeletal mass occupied by metastatic lesions identified on a bone scan.	automated bone scan index	BSI
+https://nuclex.com/id/NUCLEX_0000841	cadmium iodide	A semiconducting solid with the composition CdI2 in which incident radiation generates collectable charge carriers.		CdI2
+https://nuclex.com/id/NUCLEX_0000840	cadmium telluride	A semiconducting solid with the composition CdTe in which incident radiation generates collectable charge carriers.		CdTe
+https://nuclex.com/id/NUCLEX_0000839	cadmium zinc telluride	A semiconducting solid of composition CdTe in which a fraction of the cadmium is replaced by zinc.		CZT
+https://nuclex.com/id/NUCLEX_0000870	cardiac gated acquisition	An acquisition in which data are sorted into bins according to the phase of the heartbeat.		
+https://nuclex.com/id/NUCLEX_0001071	cardiac gated image	An image reconstructed from data sorted into bins according to the phase of the heartbeat.		ECG gated image; EKG gated image; cardiac gated series
+https://nuclex.com/id/NUCLEX_0000930	cardiac mode	A dual-detector configuration in which the two heads are configured for optimal cardiac imaging.		76 configuration; 76 degree configuration; 76 degree mode; 76 mode
+https://nuclex.com/id/NUCLEX_0000948	center of rotation offset	The displacement between the mechanical axis of rotation and the projected centre of the detector matrix.	centre of rotation offset	COR offset
+https://nuclex.com/id/NUCLEX_0000854	cesium iodide	An inorganic scintillator with the composition CsI.	caesium iodide	CsI
+https://nuclex.com/id/NUCLEX_0000855	cesium iodide doped with thallium	An inorganic scintillator of composition CsI with thallium added as an activator.	caesium iodide doped with thallium	CsI(Tl)
+https://nuclex.com/id/NUCLEX_0000938	circular orbit	A detector trajectory that maintains a constant radius about the axis of rotation.		
+https://nuclex.com/id/NUCLEX_0000647	compactness	A measure of the ratio between the volume of a region of interest and a power of its bounding surface.		
+https://nuclex.com/id/NUCLEX_0000644	concavity	A measure of the extent to which the boundary of a region of interest is indented relative to its convex hull.		
+https://nuclex.com/id/NUCLEX_0000944	continuous detector motion acquisition	An acquisition in which the detector rotates without halting while data are collected.	continuous rotation acquisition	continuous acquisition
+https://nuclex.com/id/NUCLEX_0000891	continuous table motion tomographic acquisition	An acquisition in which projection data are collected while the patient table moves continuously through the gantry.	continuous bed motion acquisition	CBM acquisition; continuous bed motion acquisition; continuous table movement tomographic acquisition; flow mode acquisition
+https://nuclex.com/id/NUCLEX_0000844	crystal scintillator	A substance in crystalline form that emits light when ionizing radiation deposits energy within it.	scintillation crystal	
+https://nuclex.com/id/NUCLEX_0000545	Curie score	A semi-quantitative measure of metaiodobenzylguanidine uptake obtained by grading abnormal skeletal uptake across ten anatomical segments.		
+https://nuclex.com/id/NUCLEX_0000836	detector material	A processed substance whose measurable response to incident radiation allows that radiation to be registered.		
+https://nuclex.com/id/NUCLEX_0000937	detector orbit type	The geometric path followed by the detector during a rotational acquisition.	orbit type	
+https://nuclex.com/id/NUCLEX_0000949	detector tilt angle	The angle between the plane of the detector and the axis of rotation.	tilt angle	
+https://nuclex.com/id/NUCLEX_0000799	device component	A physical part manufactured to function within a larger piece of equipment.		
+https://nuclex.com/id/NUCLEX_0000866	dynamic acquisition	An acquisition in which data are collected as a time series of sequential frames.		kinetic acquisition; list mode acquisition; multi-frame acquisition; multi-time frame acquisition
+https://nuclex.com/id/NUCLEX_0000898	dynamic acquisition frame duration	The length of time over which counts are collected into a single frame of a time series.	frame duration; frame time	The duration of an individual frame of a dynamic nuclear medicine acquisition.
+https://nuclex.com/id/NUCLEX_0001067	dynamic image	An image consisting of a time series of frames acquired sequentially.		4D image; dynamic; four-dimensional image; kinetic image; multi-frame image; multi-time frame image
+https://nuclex.com/id/NUCLEX_0000648	eccentricity	A measure of the deviation of a region of interest from a circular or spherical shape.		
+https://nuclex.com/id/NUCLEX_0000871	electrocardiogram gated acquisition	An acquisition in which data binning is triggered by the electrical signal of the heartbeat.		ECG gating acquisition; EKG gating acquisition
+https://nuclex.com/id/NUCLEX_0000941	elliptical orbit	A detector trajectory whose radius varies smoothly between two extremes along perpendicular axes.		
+https://nuclex.com/id/NUCLEX_0000650	elongation	A measure of the ratio between the second-largest and the largest principal axis length of a region of interest.		
+https://nuclex.com/id/NUCLEX_0000026	energy window setting	A property specifying the range of detected photon energies accepted for inclusion in an image.	energy window property	
+https://nuclex.com/id/NUCLEX_0001972	evaluation finding	A clinical observation produced by an intervention undertaken to assess a patient's state.		
+https://nuclex.com/id/NUCLEX_0000874	external fiducial tracking respiratory gated acquisition	An acquisition in which binning follows a breathing signal derived from an external marker tracked by a camera.		RPM gated acquisition
+https://nuclex.com/id/NUCLEX_0000883	eyes-to-thighs acquisition	An acquisition extending from the eyes to the thighs.		eyes to thighs
+https://nuclex.com/id/NUCLEX_0000649	flatness	A measure of the ratio between the smallest and the largest principal axis length of a region of interest.		
+https://nuclex.com/id/NUCLEX_0000853	gadolinium oxyorthosilicate	An inorganic scintillator with the composition Gd2SiO5.	gadolinium orthosilicate	GSO
+https://nuclex.com/id/NUCLEX_0000869	gated acquisition	An acquisition in which data are sorted into bins according to the phase of a physiological cycle.		temporally rebinned acquisition; temporally sampled acquisition
+https://nuclex.com/id/NUCLEX_0001070	gated image	An image reconstructed from data sorted into bins according to the phase of a physiological cycle.		recon gated tomo; temporally rebinned acquisition; temporally sampled acquisition
+https://nuclex.com/id/NUCLEX_0001069	gated tomographic image	A cross-sectional image reconstructed from data sorted into bins according to the phase of a physiological cycle.		gated image
+https://nuclex.com/id/NUCLEX_0000780	Geiger-Muller counter	A gas-filled detector instrument operated at a voltage at which each ionizing event produces a gas discharge of uniform size.	Geiger counter; GM counter	"A gas-filled detector instrument operating at a high voltage that produces a full  avalanche for each ionizing event, providing highly sensitive detection of radiation without incident energy discrimination.; GM counter; Geiger counter"
+https://nuclex.com/id/NUCLEX_0000928	H-mode	A dual-detector configuration in which the two heads are separated by 180 degrees.		180 configuration; 180 degree configuration; 180 degree mode; 180 mode; A/P mode; AP mode
+https://nuclex.com/id/NUCLEX_0000885	head-to-thighs acquisition	An acquisition extending from the vertex of the skull to the thighs.	vertex-to-thighs	head to thighs
+https://nuclex.com/id/NUCLEX_0000842	high-purity germanium	"Germanium refined to very low impurity concentration, in which incident radiation generates collectable charge carriers."	hyperpure germanium	HPGe
+https://nuclex.com/id/NUCLEX_0000032	image assessment observable	A quantity or score derived from a medical image in order to grade the extent or severity of disease.	image-derived assessment	
+https://nuclex.com/id/NUCLEX_0000006	image finding	A clinical observation identified on a medical image.	imaging finding	imaging finding
+https://nuclex.com/id/NUCLEX_0000540	image observable	A quality or quantity whose value is determined from a medical image.		image measurement; image observation; imaging observation
+https://nuclex.com/id/NUCLEX_0000019	imaging procedure observable	A property describing a setting or condition under which image data are collected.	acquisition parameter	
+https://nuclex.com/id/NUCLEX_0000846	inorganic crystal scintillator	A crystalline substance of inorganic composition that emits light when ionizing radiation deposits energy within it.		
+https://nuclex.com/id/NUCLEX_0000625	intensity maximum	The highest voxel value within a region of interest.	maximum voxel value	maximum intesity
+https://nuclex.com/id/NUCLEX_0000626	intensity median	The median voxel value within a region of interest.	median voxel value	median intensity
+https://nuclex.com/id/NUCLEX_0000627	intensity standard deviation	The standard deviation of voxel values within a region of interest.		intensity SD
+https://nuclex.com/id/NUCLEX_0000633	intensity-volume histogram feature	A quantity derived from the relationship between voxel value thresholds and the volume at or above each threshold.		IVH feature; IVH metric
+https://nuclex.com/id/NUCLEX_0000837	ionizing radiation detector material	A processed substance whose measurable response to ionizing radiation allows that radiation to be registered.		
+https://nuclex.com/id/NUCLEX_0000859	ionizing radiation gas detector material	"A gas that is ionized by incident radiation, the resulting ion pairs being collected as an electrical signal."	counting gas; fill gas	
+https://nuclex.com/id/NUCLEX_0000843	ionizing radiation scintillation detector material	A substance that emits light when ionizing radiation deposits energy within it.	scintillator	
+https://nuclex.com/id/NUCLEX_0000838	ionizing radiation solid state detector material	A solid in which incident radiation generates mobile charge carriers that are collected directly as an electrical signal.	semiconductor detector material	semiconductor detector matieral; solid state detector material
+https://nuclex.com/id/NUCLEX_0000936	IQ-SPECT mode	A detector configuration combining a multifocal collimator with a heart-centred elliptical trajectory.		IQ SPECT configuration; IQ SPECT mode; IQ-SPECT configuration
+https://nuclex.com/id/NUCLEX_0000929	L-mode	A dual-detector configuration in which the two heads are separated by 90 degrees.		90 configuration; 90 degree configuration; 90 degree mode; 90 mode
+https://nuclex.com/id/NUCLEX_0000856	lanthanum(III) bromide	An inorganic scintillator with the composition LaBr3.	lanthanum bromide	LaBr3
+https://nuclex.com/id/NUCLEX_0000889	legs acquisition	The component of a two-part study that covers the lower extremities.		
+https://nuclex.com/id/NUCLEX_0000774	liquid scintillation counter	An instrument that measures sample activity by detecting light emitted from a scintillating solution in which the sample is dissolved.	LSC	liquid scintillator
+https://nuclex.com/id/NUCLEX_0000858	liquid scintillator	A substance in liquid form that emits light when ionizing radiation deposits energy within it.	scintillation cocktail	
+https://nuclex.com/id/NUCLEX_0000849	lutetium oxyorthosilicate	An inorganic scintillator with the composition Lu2SiO5.	lutetium orthosilicate	LSO
+https://nuclex.com/id/NUCLEX_0000850	lutetium yttrium oxyorthosilicate	An inorganic scintillator of composition Lu2SiO5 in which a fraction of the lutetium is replaced by yttrium.	lutetium yttrium orthosilicate	LYSO
+https://nuclex.com/id/NUCLEX_0000848	lutetium-based scintillator	An inorganic scintillator whose composition is based on lutetium.		LBS
+https://nuclex.com/id/NUCLEX_0000835	material	A substance regarded in terms of its physical constitution.		material; non-anatomical substance
+https://nuclex.com/id/NUCLEX_0000236	Meckel diverticulum scan	A nuclear medicine imaging procedure that detects ectopic gastric mucosa within the small intestine.	Meckel scan	Meckel diverticulum scintigraphy; Meckel scan; Meckel scintigraphy; Meckel's diverticulum scintigraphy; Meckel's scan; Meckel's scintigraphy
+https://nuclex.com/id/NUCLEX_0000544	mIBG score	A semi-quantitative measure of the extent of abnormal metaiodobenzylguanidine uptake.	metaiodobenzylguanidine score	
+https://nuclex.com/id/NUCLEX_0000546	modified Curie score	A revision of the Curie score using altered segment definitions and grading criteria.		
+https://nuclex.com/id/NUCLEX_0000879	multi-bed acquisition	An acquisition in which axial coverage is obtained from more than one table position.		multiple bed acquisition; multiple bed position acquisition
+https://nuclex.com/id/NUCLEX_0001075	multi-bed stitched image	An image formed by joining data from several overlapping table positions into one continuous volume.		multi bed position image; stitched image; whole body stitched image
+https://nuclex.com/id/NUCLEX_0000876	multi-gated acquisition	An acquisition in which data are sorted into bins according to the phases of more than one physiological cycle.	dual gated acquisition	ECG and respiratory gated acquisition; cardiac respiratory gated acquisition; dual-gated acquisition; respiratory cardiac gated acquisition
+https://nuclex.com/id/NUCLEX_0001073	multi-gated image	An image reconstructed from data sorted into bins according to the phases of more than one physiological cycle.	dual gated image	cardiac and respiratory gated image; double-gated image
+https://nuclex.com/id/NUCLEX_0000773	multi-well counter	A sample counting instrument containing more than one detector cavity.		multi-well gamma counter
+https://nuclex.com/id/NUCLEX_0000886	neck-to-thighs acquisition	An acquisition extending from the cervical region to the proximal femurs.		neck to thighs
+https://nuclex.com/id/NUCLEX_0000219	neuroendocrine neoplasm scan	A nuclear medicine imaging procedure that images tumours arising from neuroendocrine cells.	neuroendocrine tumour imaging	neuroendocrine tumor imaging
+https://nuclex.com/id/NUCLEX_0000939	non-circular orbit	A detector trajectory whose radius varies during rotation.	noncircular orbit; variable radius orbit	
+https://nuclex.com/id/NUCLEX_0000864	nuclear medicine acquisition type	The temporal and geometric scheme by which nuclear medicine image data are collected.		NM acquisition type
+https://nuclex.com/id/NUCLEX_0000890	nuclear medicine bed motion type	The manner in which the patient table moves during image acquisition.	table motion type	NM bed motion setting
+https://nuclex.com/id/NUCLEX_0000942	nuclear medicine detector motion type	The manner in which the detector moves during image acquisition.		detector motion type
+https://nuclex.com/id/NUCLEX_0000927	nuclear medicine detector positioning mode	The angular arrangement of detector heads relative to one another and to the patient.	detector configuration	
+https://nuclex.com/id/NUCLEX_0000946	nuclear medicine detector spatial positioning	The placement and orientation of the detector relative to the patient and the axis of rotation.		
+https://nuclex.com/id/NUCLEX_0000895	nuclear medicine image acquisition duration	The total time over which counts are collected during an acquisition.	acquisition duration; scan time	PET acquisition duration; SPECT acquisition duration; planar acquisition duration
+https://nuclex.com/id/NUCLEX_0000863	nuclear medicine image acquisition observable	A property describing a setting or condition under which nuclear medicine image data are collected.		NM acquisition setting; nuclear medicine acquisition parameter; nuclear medicine acquisition setting; nuclear medicine imaging parameters
+https://nuclex.com/id/NUCLEX_0000877	nuclear medicine image axial coverage setting	The extent of the patient covered along the long axis of the body during image acquisition.		image axial coverage; nuclear medicine image axial coverage; nuclear medicine image axial coverage property; nuclear medicine image axial length; nuclear medicine image axial length setting
+https://nuclex.com/id/NUCLEX_0001064	nuclear medicine image type	The category of nuclear medicine image determined by how its data were acquired and reconstructed.		image type attribute; nuclear medicine image series type; nuclear medicine image type property
+https://nuclex.com/id/NUCLEX_0000031	nuclear medicine imaging procedure property	A property describing how an imaging study using an administered radiopharmaceutical is carried out.		
+https://nuclex.com/id/NUCLEX_0000887	number of bed positions	The count of discrete table locations used during an acquisition.		number of beds; number of table stops
+https://nuclex.com/id/NUCLEX_0001969	observable entity	"A quality, property, or characteristic that can be observed or measured."		
+https://nuclex.com/id/NUCLEX_0000880	organ focused acquisition	An acquisition whose axial coverage is limited to a single anatomical structure or region.	organ-specific acquisition	organ-specific acquisition
+https://nuclex.com/id/NUCLEX_0000845	organic crystal scintillator	A crystalline substance of organic composition that emits light when ionizing radiation deposits energy within it.		
+https://nuclex.com/id/NUCLEX_0000882	partial-body acquisition	An acquisition whose axial coverage spans a defined portion of the patient rather than the full length.		limited-body acquisition
+https://nuclex.com/id/NUCLEX_0000872	peripheral pulse gated acquisition	An acquisition in which data binning is triggered by the arterial waveform detected at an extremity.		pulse gating acquisition
+https://nuclex.com/id/NUCLEX_0000931	plantar mode	A detector configuration arranged to image the soles of the feet.		
+https://nuclex.com/id/NUCLEX_0000857	plastic scintillator	A fluorescent compound dissolved in a solid polymer that emits light when ionizing radiation deposits energy within it.		plastic scintillation detector; plastic scintillation material
+https://nuclex.com/id/NUCLEX_0000875	pressure-sensitive belt respiratory gated acquisition	An acquisition in which binning follows a breathing signal derived from a pressure-sensing band worn by the patient.		bellows gated acquisition; bellows respiratory gated acquisition; belt gated acquisition; belt respiratory gated acquisition; pressure-sensitive belt gated acquisition
+https://nuclex.com/id/NUCLEX_0000860	pressurized argon	Argon held above atmospheric pressure and ionized by incident radiation.	pressurised argon	
+https://nuclex.com/id/NUCLEX_0001973	procedure related finding	"A clinical observation arising in the course of, or as a consequence of, a medical procedure."		
+https://nuclex.com/id/NUCLEX_0000009	processed material	A substance that has been manufactured or refined for a particular purpose.		
+https://nuclex.com/id/NUCLEX_0000470	radionuclide	An atomic species with an unstable nucleus that undergoes spontaneous transformation with emission of radiation.	radioisotope; radioactive isotope; radioactive nuclide	
+https://nuclex.com/id/NUCLEX_0000770	radionuclide calibrator	A gas-filled instrument that measures the activity of a radioactive sample.	dose calibrator; activity meter	activity meter; dose calibrator; radioactivity meter
+https://nuclex.com/id/NUCLEX_0000275	radiopharmaceutical dosimetry process	An activity undertaken to determine the absorbed dose delivered to tissues by an administered radioactive tracer.		
+https://nuclex.com/id/NUCLEX_0001074	reconstructed tomographic image	A cross-sectional image produced by applying a reconstruction algorithm to projection data.		recon tomo; reconstructed image
+https://nuclex.com/id/NUCLEX_0000623	region of interest statistical feature	A quantity calculated from the distribution of voxel values within a delineated volume.	first-order feature	ROI feature; first-order feature
+https://nuclex.com/id/NUCLEX_0000873	respiratory gated acquisition	An acquisition in which data are sorted into bins according to the phase of breathing.		
+https://nuclex.com/id/NUCLEX_0001072	respiratory gated image	An image reconstructed from data sorted into bins according to the phase of breathing.		respiratory motion gated image
+https://nuclex.com/id/NUCLEX_0000878	single-bed acquisition	An acquisition in which axial coverage is obtained from one table position.		single-bed position acquisition
+https://nuclex.com/id/NUCLEX_0000547	SIOPEN score	A semi-quantitative measure of metaiodobenzylguanidine uptake obtained by grading abnormal skeletal uptake across twelve anatomical segments.	SIOPEN mIBG score	
+https://nuclex.com/id/NUCLEX_0000884	skull base-to-thighs acquisition	An acquisition extending from the inferior aspect of the skull to the thighs.		skull to thighs
+https://nuclex.com/id/NUCLEX_0000851	sodium iodide	An inorganic scintillator with the composition NaI.		NaI; sodium iodide
+https://nuclex.com/id/NUCLEX_0000852	sodium iodide doped with thallium	An inorganic scintillator of composition NaI with thallium added as an activator.	thallium-doped sodium iodide	NaI(Tl); sodium iodide dope with thallium
+https://nuclex.com/id/NUCLEX_0000645	sphericity	A measure comparing the bounding surface of a sphere of equal volume with the bounding surface of a region of interest.		
+https://nuclex.com/id/NUCLEX_0000924	start angle	The angular position of the detector at the beginning of a rotational acquisition.	starting angle	initial angle; start position
+https://nuclex.com/id/NUCLEX_0000892	static bed position acquisition	An acquisition in which the patient table remains stationary at each imaging position.		multiple bed position acquisition; step and shoot acquisition; step-and-shoot
+https://nuclex.com/id/NUCLEX_0001065	static image	An image acquired over a single fixed interval without temporal subdivision.		spot view; static
+https://nuclex.com/id/NUCLEX_0000945	stationary detector acquisition	An acquisition in which the detector remains fixed in position throughout data collection.		static acquisition; stationary acquisition
+https://nuclex.com/id/NUCLEX_0000943	step-and-shoot acquisition	An acquisition in which the detector halts at each angular position to collect data before advancing.	stepped acquisition	angular step acquisition; step and shoot
+https://nuclex.com/id/NUCLEX_0000934	stretcher mode	A detector configuration that accommodates a patient lying on a stretcher.		gurney configuration; gurney mode
+https://nuclex.com/id/NUCLEX_0000536	subatomic particle	A constituent of matter smaller than an atom.	elementary particle	
+https://nuclex.com/id/NUCLEX_0000646	surface area to volume ratio	A measure comparing the bounding surface of a region of interest with the space it encloses.	surface to volume ratio	SA:V ratio
+https://nuclex.com/id/NUCLEX_0000893	sweep acquisition	An acquisition in which the patient table moves continuously relative to the detector during data collection.		continuous table motion planar acquisition
+https://nuclex.com/id/NUCLEX_0000007	therapy	"A procedure carried out with the intention of curing, controlling, or relieving disease."	therapeutic treatment	
+https://nuclex.com/id/NUCLEX_0000775	thyroid probe	A collimated detector designed to measure radioactivity within the thyroid gland.	thyroid uptake probe	uptake probe
+https://nuclex.com/id/NUCLEX_0000868	tomographic acquisition	An acquisition in which projection data are collected from multiple angles for cross-sectional reconstruction.		tomo acquisition
+https://nuclex.com/id/NUCLEX_0001068	tomographic image	A cross-sectional image reconstructed from projection data acquired at multiple angles.		projection image; projections; tomo; tomo image; ungated tomographic image
+https://nuclex.com/id/NUCLEX_0000925	total rotation angle	The angular range traversed by the detector during a rotational acquisition.	rotation range; angular coverage	angular range; arc of rotation; scan arc; total angle of rotation
+https://nuclex.com/id/NUCLEX_0000618	tumor-to-blood pool ratio measurement	The quotient of radiotracer uptake in a lesion and uptake in a vascular reference region.	tumour-to-blood pool ratio	tumor-to-blood ratio
+https://nuclex.com/id/NUCLEX_0000619	tumor-to-descending aorta ratio measurement	The quotient of radiotracer uptake in a lesion and uptake measured in the descending aorta.	tumour-to-descending aorta ratio	
+https://nuclex.com/id/NUCLEX_0000616	tumor-to-kidney ratio measurement	The quotient of radiotracer uptake in a lesion and uptake measured in the kidney.	tumour-to-kidney ratio	TKR
+https://nuclex.com/id/NUCLEX_0000620	tumor-to-left ventricle ratio measurement	The quotient of radiotracer uptake in a lesion and uptake measured in the left ventricular blood pool.	tumour-to-left ventricle ratio	
+https://nuclex.com/id/NUCLEX_0000617	tumor-to-liver ratio measurement	The quotient of radiotracer uptake in a lesion and uptake measured in the liver.	tumour-to-liver ratio	TLR
+https://nuclex.com/id/NUCLEX_0000888	two-scan whole-body acquisition	An acquisition covering the full length of the patient performed as two separate scans with repositioning between them.		patient flip scan; split scan; two-part acquisition
+https://nuclex.com/id/NUCLEX_0000933	vertical inside mode	A detector configuration in which the heads are oriented vertically and face the inner side of the imaging room.	inner room configuration	
+https://nuclex.com/id/NUCLEX_0000932	vertical outside mode	A detector configuration in which the heads are oriented vertically and face the outer side of the imaging room.		outer room configuration; outer room mode
+https://nuclex.com/id/NUCLEX_0000634	volume at intensity fraction	The volume of a region of interest at or above a specified fraction of the highest voxel value.		Vx
+https://nuclex.com/id/NUCLEX_0000771	well-type scintillation counter	An instrument containing a scintillator detector with a cavity into which a sample is placed for activity measurement.	well counter	well counter; wipe test counter
+https://nuclex.com/id/NUCLEX_0000881	whole-body acquisition	An acquisition whose axial coverage spans the full length of the patient.		WB acquisition; WB scan; full-body acquisition; head-to-toes acquisition; total body acquisition; whole body scan; whole-body scan
+https://nuclex.com/id/NUCLEX_0000867	whole-body dynamic acquisition	An acquisition in which each successive frame of a time series covers the full length of the patient.		WB dynamic acquisition; WB dynamic scan; whole-body dynamic scan
+https://nuclex.com/id/NUCLEX_0000894	whole-body sweep acquisition	An acquisition covering the full length of the patient in which the table moves continuously relative to the detector.		whole body acquisition; whole body planar acquisition
+https://nuclex.com/id/NUCLEX_0001066	whole-body sweep image	A planar image of the full length of the patient formed during continuous table movement.		sweep image; whole body image

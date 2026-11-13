@@ -1,4 +1,20 @@
+# Secrets / local config
 config.py
 .env/
-__pychache__/
-config.py
+.venv/
+
+# Python
+__pycache__/
+
+# Editor
+.idea/
+.vscode/
+
+# Generated files, cheap to recreate
+# (QC output saved into releases/X.Y.Z/ at release time IS committed)
+nuclex_qc_*.tsv
+*-id-mapping.tsv
+*-defs.owl
+nuclex-release.owl
+nuclex-source-*.owl
+*_sync_report.tsv

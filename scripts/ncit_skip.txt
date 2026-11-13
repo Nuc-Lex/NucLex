@@ -1,0 +1,5 @@
+# NCIt codes that sync_ncit.py must never add to NucLex.
+# Add a code here when you reject a new NCIt concept, so it does not come back
+# at the next sync. One code per line; text after # is a comment.
+
+C228946   # Hyperpolarized 2-13C-Pyruvic Acid: C-13 is not radioactive (2026-11-13)
